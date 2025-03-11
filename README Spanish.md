@@ -22,6 +22,7 @@ Además, este proyecto permite la automatización de la conversión de libros o 
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/gTTS-000000?logo=googletranslate&logoSize=auto)
 
 - Python.
 - `gTTS`
@@ -56,7 +57,6 @@ audio.save('audioBook.mp3')
 ### Limitaciones
 
 El Asistente de Lectura es solo para fines educativos bajo la licencia MIT.
-También esta disponible el código de la versión mínimal.
 
 ---
 

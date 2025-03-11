@@ -22,6 +22,7 @@ Additionally, this project enables the automation of converting books or documen
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/gTTS-000000?logo=googletranslate&logoSize=auto)
 
 - Python.
 - `gTTS`
@@ -56,7 +57,6 @@ audio.save('audioBook.mp3')
 ### Limitations
 
 Reader Assistant it's just for educational purpose under the MIT License.
-The code for the minimal version is also available.
 
 ---
 
